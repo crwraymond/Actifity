@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="sendM">Send</string>
+    <string name="InputT">Input text</string>
+</resources>

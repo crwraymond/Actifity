@@ -1,0 +1,25 @@
+
+Buku textbook for reference / download:
+https://ramotlubis-site.s3-ap-southeast-1.amazonaws.com/HeadFirstAndroidDevelopmentABrainFriendlyGuide2ndEdition-1.pdf
+
+
+Notes to learn dari textbook: 
+Page 119: The Activity Lifecycle: Being an activity 
+
+
+Dari buku textbook, baca Chapter 4, mulai halaman 119 The Activity Lifecycle: Being an activity
+
+Questions:
+1. Gambarkan sendiri activity lifecyle diagram, dan tuliskan nama-nama method sesuai dengan masing-masing activity.
+2. Tuliskan activity java class berikut dengan implementasi method-method dalam setiap lifecycle, dan setiap method melakukan fungsi-fungsi sederhana.
+
+Jawaban dari 2 pertanyaan diatas di balas dalam Forum GSLC
+
+
+Hands on exercise:
+Stop watch apps
+Download dari github: 
+https://github.com/dogriffiths/HeadFirstAndroid2ndEdition/tree/master/chapter04/Stopwatch
+
+Kerjakan Aplikasi Stop watch dan lihat referensi contoh dari github url di atas.
+Buatkan github anda dan push project2 hands-on ke github anda sendiri, dan project2 hands-on anda akan saya periksa nanti pada saat kelas online atau melalui assignment di Binusmaya
